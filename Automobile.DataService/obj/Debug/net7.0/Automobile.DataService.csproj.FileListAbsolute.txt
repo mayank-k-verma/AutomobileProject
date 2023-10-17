@@ -1,0 +1,17 @@
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/bin/Debug/net7.0/Automobile.DataService.deps.json
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/bin/Debug/net7.0/Automobile.DataService.runtimeconfig.json
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/bin/Debug/net7.0/Automobile.DataService.dll
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/bin/Debug/net7.0/Automobile.DataService.pdb
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/bin/Debug/net7.0/Automobile.Entities.dll
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/bin/Debug/net7.0/Automobile.Entities.pdb
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/obj/Debug/net7.0/Automobile.DataService.csproj.AssemblyReference.cache
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/obj/Debug/net7.0/Automobile.DataService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/obj/Debug/net7.0/Automobile.DataService.AssemblyInfoInputs.cache
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/obj/Debug/net7.0/Automobile.DataService.AssemblyInfo.cs
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/obj/Debug/net7.0/Automobile.DataService.csproj.CoreCompileInputs.cache
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/obj/Debug/net7.0/Automobile.DataService.csproj.CopyComplete
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/obj/Debug/net7.0/Automobile.DataService.dll
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/obj/Debug/net7.0/refint/Automobile.DataService.dll
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/obj/Debug/net7.0/Automobile.DataService.pdb
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/obj/Debug/net7.0/Automobile.DataService.genruntimeconfig.cache
+/Users/30111693/Desktop/Projects/Automobile/Automobile.DataService/obj/Debug/net7.0/ref/Automobile.DataService.dll
